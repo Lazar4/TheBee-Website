@@ -5,13 +5,8 @@ There is "register" option for new users, after its completion users will be abl
 
 To see all the features of this Web site, you can download the files and locally host it. (e.g. download files into htdocs folder of Xampp and create database with the same name as defined in code).
 
-## Front-end
-
-For design of Web site I used HTML/CSS/Bootstrap
-
-## Back-end
-
-PHP, SQL
+I used php for making login system and sql for relational database, bootstrap for design.
+ 
 ## Some of Web site pages:
 ## Homepage of Web site
 ![1](https://user-images.githubusercontent.com/93013496/140606838-31a8363c-9629-41b0-aa04-dfb41c6c6edf.png)
