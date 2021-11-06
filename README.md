@@ -9,8 +9,8 @@ I used php for making login system and sql for relational database. HTML/CSS, Bo
 
 Some of the php files contain only HTML code, that's why hack programming language is displayed under "languages" in this repo, but I didn't use it.
  
-## Some of Web site pages:
-## Homepage of Web site
+## Example of some pages. Homepage:
+
 ![1](https://user-images.githubusercontent.com/93013496/140606838-31a8363c-9629-41b0-aa04-dfb41c6c6edf.png)
 
 ## Ordering products
