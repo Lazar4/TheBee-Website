@@ -1,0 +1,9 @@
+.nav-link:hover{
+	color: yellow !important;
+	transition: 0.3s;
+}
+
+.nav-link{
+	font-size: 20px;
+}
+

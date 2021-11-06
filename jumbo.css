@@ -1,0 +1,13 @@
+.jumbotron{
+	background-image: url(images/2518c4_b9503948eac244ffb5ed83a9fa99d68c_mv2.jpeg); 
+	background-size: cover;
+}
+
+.display-3{
+	font-size: 100px;
+	color: yellow;
+}
+
+.whitetext{
+	color: white;
+}
