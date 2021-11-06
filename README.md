@@ -12,19 +12,22 @@ For design of Web site I used HTML/CSS/Bootstrap
 ## Back-end
 
 PHP, SQL
-
+## Some of Web site pages:
+## Homepage of Web site
 ![1](https://user-images.githubusercontent.com/93013496/140606838-31a8363c-9629-41b0-aa04-dfb41c6c6edf.png)
 
-
-
-
-
-
+## Ordering products
 
 ![2](https://user-images.githubusercontent.com/93013496/140606885-4fa4b40d-115f-48c3-b769-0f5959980dc9.png)
 
+## info about top products
+
 ![5](https://user-images.githubusercontent.com/93013496/140606890-70fb8a90-23be-4f3c-b428-a73a41f3afdf.png)
 
+## Registration form
+
 ![3](https://user-images.githubusercontent.com/93013496/140606898-e1f7eff8-dee2-457c-bff6-31a54ac0f0c1.png)
+
+## Login form
 
 ![4](https://user-images.githubusercontent.com/93013496/140606917-58e57a71-579c-4d3f-86f2-bca58b67419a.png)
