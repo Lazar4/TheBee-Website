@@ -6,7 +6,8 @@ There is "register" option for new users, after its completion users will be abl
 To see all the features of this Web site, you can download the files and locally host it. (e.g. download files into htdocs folder of Xampp and create database with the same name as defined in code).
 
 I used php for making login system and sql for relational database. HTML/CSS, Bootstrap for design.
-(Some of the php files contain only HTML code, that's why hack programming language is displayed under "languages" in this repo, but I didn't use it).
+
+Some of the php files contain only HTML code, that's why hack programming language is displayed under "languages" in this repo, but I didn't use it.
  
 ## Some of Web site pages:
 ## Homepage of Web site
